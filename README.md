@@ -3,9 +3,16 @@
 Este repositório é meu caderno de estudos sobre Python aplicado à Ciência de Dados.  
 Aqui você vai encontrar anotações, exercícios, gráficos e mini projetos que estou desenvolvendo ao longo do meu aprendizado com a linguagem Python. 
 
-## 📁 Organização
+## 📁 Aqui você encontra
 
-- **01-introducao-python**: primeiros passos na linguagem.
+- O que é um **Notebook**
+- Introdução ao o que é Python
+- Aplicar a função **print** para imprimir resultados na tela.
+- Criar **variáveis** em Python
+- **Distinguir** os diferentes tipos de dados
+- Realizar **operações** com variáveis numéricas
+- Manipular variáveis de texto **(strings)**
+- Coletar dados de uma pessoa usuária com **input**
 
 ## 🛠️ Tecnologias
 
