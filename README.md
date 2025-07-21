@@ -13,7 +13,7 @@ Aqui você vai encontrar anotações, exercícios, gráficos e mini projetos que
 - Realizar **operações** com variáveis numéricas
 - Manipular variáveis de texto **(strings)**
 - Coletar dados de uma pessoa usuária com **input**
-- Construir blocos condicionais com if, else e elif.
+- Construir blocos condicionais com **if, else e elif**.
 
 ## 🛠️ Tecnologias
 
